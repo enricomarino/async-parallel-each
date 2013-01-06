@@ -1,0 +1,13 @@
+{
+  "name": "parallel-each",
+  "repo": "component-async/parallel-each",
+  "version": "0.0.0",
+  "description": "async parallel each",
+  "keywords": ["async", "parallel", "each"],
+  "scripts": ["index.js"],
+  "dependencies": {
+  },
+  "development": {
+  },
+  "license": "MIT"
+}
