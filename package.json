@@ -1,0 +1,31 @@
+{
+  "name": "parallel-each",
+  "description": "async parallel each",
+  "version": "0.0.0",
+  "author": {
+    "name": "Enrico Marino",
+    "url": "http://onirame.com"
+  },
+  "maintainers": [
+    {
+      "name": "Enrico Marino",
+      "url": "http://onirame.com"
+    },
+    {
+      "name": "Federico Spini",
+      "url": "federicospini.com"
+    }
+  ],
+  "main": "index.js",
+  "homepage": "https://github.com/component-async/parallel-each",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/component-async/parallel-each.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
