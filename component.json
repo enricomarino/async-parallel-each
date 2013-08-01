@@ -1,6 +1,6 @@
 {
-  "name": "parallel-each",
-  "repo": "component-async/parallel-each",
+  "name": "async-parallel-each",
+  "repo": "enricomarino/async-parallel-each",
   "version": "0.0.0",
   "description": "async parallel each",
   "keywords": ["async", "parallel", "each"],
