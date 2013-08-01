@@ -1,10 +1,10 @@
-# parallel-each
+# async-parallel-each
 
 async parallel each
 
 ## Installation
 
-    $ component install component-async/parallel-each
+    $ component install enricomarino/async-parallel-each
 
 ## License
 
